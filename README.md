@@ -1,8 +1,8 @@
-# jubilant-dollop
-pointer network to rank ten random numbers which will be used in stock market
+# pointer network to rank ten random numbers which will be used in stock market
+
 
 Environment:
-
+MMY algorithms, there are three algorithms, including OME,BMP, BOMP
 
 Usage:
  use data_produce to produce the training data and test data
