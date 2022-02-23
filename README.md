@@ -2,7 +2,7 @@
 
 
 Environment:
-MMY algorithms, there are three algorithms, including OME,BMP, BOMP
+Python 3.10 Pytorch 1.10.2
 
 Usage:
  use data_produce to produce the training data and test data
