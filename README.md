@@ -5,8 +5,8 @@ Environment:
 Python 3.10 Pytorch 1.10.2
 
 Usage:
- use data_produce to produce the training data and test data
- use rnn_pointer to train and test the model of rank random numbers which will be used to rank ten kinds of stocks in stock market.
+ use data_produce to produce the training data and test data,
+ then use rnn_pointer to train and test the model of rank random numbers which will be used to rank ten kinds of stocks in stock market.
  
 Network:
 
