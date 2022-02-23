@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-#生成训练集
+#train data
 train_data = np.zeros((10000,10))
 train_data = np.random.uniform(low = 0, high = 1, size = train_data.shape)
 
@@ -30,7 +30,7 @@ train_out4 = train_out3[0]
 np.save("E:\\quant_research\\train the rank of ten points\\RNN_point\\data\\train_data_10num.npy",train_data)
 np.save("E:\\quant_research\\train the rank of ten points\\RNN_point\\data\\train_label_10num.npy",train_out4)
 
-#生成训练集
+#test data
 train_data = np.zeros((10000,10))
 train_data = np.random.uniform(low = 0, high = 1, size = train_data.shape)
 
